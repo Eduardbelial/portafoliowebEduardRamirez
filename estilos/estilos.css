@@ -1,0 +1,192 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: auto;
+	background: rgb(255,255,255);
+	background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(37,33,35,1) 0%, rgba(255,255,255,1) 100%);	
+}
+.cero{
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	height: 100px;
+}
+.uno{
+	height: 60px;
+	width: 10px;
+}
+.facebook{
+	width: 35px;
+	height: 35px;
+}
+.twitter{
+    width: 35px;
+    height: 35px;
+}
+.instagram{
+    width: 35px;
+    height: 35px;
+}
+.whatsapp{
+    width: 35px;
+    height: 35px;
+}
+.imagotipo{
+	width: 904px;
+	height: 336px;
+	
+}
+.dos{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	margin-top: 20px;
+}
+.tres{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	height: 400px;
+	margin-top: 20px;
+}
+.frase{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+.cuatro{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	margin-top: 20px;
+
+}
+.fotoperfil{
+	width: 200px;
+	height: 200px;
+}
+.cinco{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	margin-top: 20px;
+}
+.seis{
+	background-color: white;
+	height: 180px;
+	margin-top: 20px;
+}
+.siete{
+	height: 60px;
+	margin-top: 20px;
+}
+.www{
+	width: 35px;
+    height: 35px;
+}
+.gmail{
+	width: 35px;
+    height: 35px;
+}
+.contactos{
+	width: 35px;
+    height: 35px;
+}
+.titulohabilidadestécnicas{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+}
+.habilidadestécnicas{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	margin-top: 20px;
+}
+.titulohabilidadesblandas{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+}
+.habilidadesblandas{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	margin-top: 20px;
+}
+.titulohobbies{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+}
+.tituloperfil{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100px;
+}
+.tituloeducaiócn{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+}
+.educación{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	margin-top: 20px;
+}
+.tituloexperiencialaboral{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+}
+.experiencialaboral{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;
+	margin-top: 20px;
+}
+.tituloautobiografía{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 200px;
+}
+.autobiografía{
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	height: 400px;
+}
+.titulocontactopersonal{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+}
+.contacto{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 400px;	
+}
+.tituloregistro{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+}
