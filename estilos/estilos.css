@@ -3,14 +3,12 @@
 }
 body{
 	margin: auto;
-	background: rgb(255,255,255);
-	background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(37,33,35,1) 0%, rgba(255,255,255,1) 100%);	
+	background-color: #777777;
 }
 .cero{
 	display: flex;
 	justify-content: flex-start;
 	align-items: flex-start;
-	height: 100px;
 }
 .uno{
 	height: 60px;
@@ -30,10 +28,11 @@ body{
 }
 .whatsapp{
     width: 35px;
-    height: 35px;
+	height: 35px;
+	
 }
 .imagotipo{
-	width: 904px;
+	width: 1080px;
 	height: 336px;
 	
 }
@@ -41,14 +40,14 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 400px;
+	height: 500px;
 	margin-top: 20px;
 }
 .tres{
 	display: flex;
-	justify-content: flex-end;
+	justify-content: center;
 	align-items: center;
-	height: 400px;
+	height: 500px;
 	margin-top: 20px;
 }
 .frase{
@@ -65,8 +64,8 @@ body{
 
 }
 .fotoperfil{
-	width: 200px;
-	height: 200px;
+	width: 500px;
+	height: 500px;
 }
 .cinco{
 	display: flex;
@@ -101,6 +100,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	height: 300px;
+	color: #C40007;
 }
 .habilidadestécnicas{
 	display: flex;
@@ -114,6 +114,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	height: 300px;
+	color: #C40007;
 }
 .habilidadesblandas{
 	display: flex;
@@ -127,18 +128,21 @@ body{
 	justify-content: center;
 	align-items: center;
 	height: 300px;
+	color: #C40007;
 }
 .tituloperfil{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 100px;
+	height: 300px;
+	color: #C40007;
 }
 .tituloeducaiócn{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	height: 300px;
+	color: #C40007;
 }
 .educación{
 	display: flex;
@@ -152,6 +156,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	height: 300px;
+	color: #C40007;
 }
 .experiencialaboral{
 	display: flex;
@@ -164,12 +169,14 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	height: 200px;
+	height: 300px;
+	color: #C40007;
+	margin-top: 20px;
 }
 .autobiografía{
 	display: flex;
 	justify-content: center;
-	align-items: flex-start;
+	align-items: center;
 	height: 400px;
 }
 .titulocontactopersonal{
@@ -177,6 +184,7 @@ body{
 	justify-content: center;
 	align-items: center;
 	height: 300px;
+	color: #C40007;
 }
 .contacto{
 	display: flex;
@@ -189,4 +197,14 @@ body{
 	justify-content: center;
 	align-items: center;
 	height: 300px;
+	color: #C40007;
+}
+.inferior{
+	background-color: #252123;
+	border:  white 15px inset;
+	margin-top: 30px;
+}
+.superior{
+	background-color: #252123;
+	border:  white 15px inset;
 }
